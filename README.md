@@ -12,8 +12,8 @@ Com o início da minha jornada na faculdade, comprometo-me a fazer **commits** r
 
 ## Estrutura do Repositório 📁
 
-- `projetos/` - Projetos desenvolvidos individualmente ou em equipe, aplicando o conhecimento adquirido.
-- `desafios/` - Desafios e exercícios práticos para aprimorar a resolução de problemas e a lógica de programação.
+- `1-Projetos/` - Projetos desenvolvidos individualmente ou em equipe, aplicando o conhecimento adquirido.
+- `2-Desafios/` - Desafios e exercícios práticos para aprimorar a resolução de problemas e a lógica de programação.
 
 ## Como Contribuir 🤝
 
