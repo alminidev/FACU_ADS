@@ -12,10 +12,8 @@ Com o início da minha jornada na faculdade, comprometo-me a fazer **commits** r
 
 ## Estrutura do Repositório 📁
 
-- `fundamentos/` - Conceitos básicos e fundamentais da programação e sistemas de informação.
 - `projetos/` - Projetos desenvolvidos individualmente ou em equipe, aplicando o conhecimento adquirido.
 - `desafios/` - Desafios e exercícios práticos para aprimorar a resolução de problemas e a lógica de programação.
-- `reflexoes/` - Pensamentos e aprendizados significativos ao longo do meu percurso acadêmico.
 
 ## Como Contribuir 🤝
 
